@@ -106,35 +106,6 @@ dist
 
 #Padrao do VS Code
 .vscode/
-# Arquivos do SIG gerados automaticamente
-__eng_de_processo/movimentos/atualizar_atualizAutomaticas/salvar_ultimoCodAlt.json
-gestorjb/quebra/importarop.xml
-gestorjb/quebra/xml/importarquebra.xml
-*.pdf
-**.pdf
-*.xlsx
-**.xlsx
-*.csv
-**.csv
-*.txt
-**.txt
-query.txt
-**query.txt
-*.db
-**.db
-Thumbs.db
-**Thumbs.db
-imagens/imagens_sessoesMenu/Thumbs.db 
-imagens/Thumbs.db 
-# Cache interno
-app/cache/ped_vendedoresGPrint_001.cache
-app/cache/*
 
-# pasta de fotos de perfil para colaborador
-imagens/fotos_colaboradores/*
-imagens/fotos_colaboradores/
-# fotos do perfil para usuarios
-imagens/fotos_usuarios/*
-imagens/fotos_usuarios/
 
 
